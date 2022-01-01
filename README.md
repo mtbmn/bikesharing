@@ -9,7 +9,7 @@ Bike sharing is a profitable service in New York city and could potentially be s
 The data was downloaded from Citibke and used as is with two changes.  1) The tripduration column was provided as an integer. This was changed to a date using python. 2) The gender column originated as an integer, where 0 = unknown, 1 = male, and 2 = female.  This was updated to text using a calculated field in Tableau.
 
 ### Tableau Link
-[Tableau Viz](https://public.tableau.com/authoring/Module14ChallengeBikeShareViability/BikeShareViability#1)
+[Tableau Viz](https://public.tableau.com/app/profile/eric.anthony3731/viz/Module14ChallengeBikeShareViabilitybyEricAnthony/BikeShareViability)
 
 ### Figures
 ![Fig-1](resources/peak_august_hours.png)
